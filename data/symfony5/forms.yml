@@ -42,7 +42,7 @@ questions:
             - {value: csrf_fieldname,  correct: false}
             - {value: csrf_field,      correct: false}
             - {value: csrf_name,       correct: false}
-            - {value: csrf_protection, correct: false}    -
+            - {value: csrf_protection, correct: false}
     -
         question: 'Using Form component, which option can you use into setDefaultOptions() method to disabled CSRF protection?'
         answers:
@@ -182,10 +182,10 @@ questions:
     -
         question: 'Which Field type exist?'
         answers:
-            - {value: "HiddenType", correct: true} azezae
+            - {value: "HiddenType", correct: true}
             - {value: "SearchType", correct: true}
             - {value: "BirthdayType", correct: true}
-            - {value: "PasswordType", correct: true}azeaze
+            - {value: "PasswordType", correct: true}
             - {value: "SelectType",  correct: false}
             - {value: "FloatType",  correct: false}
             - {value: "BooleanType",  correct: false}
