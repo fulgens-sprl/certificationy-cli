@@ -1,1 +1,1 @@
-paths: ["data/symfony5", "vendor/certificationy/php-pack/data"]
+paths: ["/home/alexandre/PhpstormProjects/certificationy-cli/data/symfony5", "/home/alexandre/PhpstormProjects/certificationy-cli/vendor/certificationy/php-pack/data"]
